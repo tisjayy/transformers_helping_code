@@ -1,5 +1,4 @@
 # transformers_helping_code
-# transformers_helping_code
 # Vision Transformer & Self-Attention Example
 
 This repository contains example implementations of core Transformer components — **Self-Attention** and **Vision Transformer (ViT)** — using TensorFlow and Keras. These can be used as building blocks for models handling images, sequential data, or other applications.
